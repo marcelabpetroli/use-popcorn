@@ -77,12 +77,3 @@ function Star({ full, onClick, onHoverIn, onHoverOut }) {
     </span>
   );
 }
-
-/*
-
-
-
-EMPTY STAR
-
-
-*/
